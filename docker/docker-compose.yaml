@@ -1,0 +1,11 @@
+version: "3"
+services:
+  imgcrop:
+    image: iqxi/imgcrop_service
+    container_name: "imgcrop_service"
+    ports:
+      - "8008:8008"
+    environment:
+      CACHE_SIZE: 100 # in MB
+volumes:
+  imgcrop_volume:

@@ -1,0 +1,14 @@
+FROM golang:alpine
+
+RUN apk update && apk upgrade && apk add --no-cache git openssh gcc g++
+
+RUN go get github.com/disintegration/imaging
+RUN go get github.com/spf13/viper
+RUN go get go.uber.org/zap
+RUN go get github.com/gorilla/mux
+RUN go get github.com/DATA-DOG/godog/cmd/godog
+
+
+COPY /ImgCrop /go/src/ImgCrop
+WORKDIR /go/src/ImgCrop/internal/integration_tests
+CMD ["go", "test", "-v"]

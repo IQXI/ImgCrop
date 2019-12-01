@@ -1,0 +1,199 @@
+{"level":"INFO","time":"2019-11-29T19:15:59.420+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:15:59.475+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:15:59.475+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:15:59.475+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:15:59.476+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:15:59.476+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.397+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.459+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.459+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.459+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.459+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:16:47.459+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:19:04.724+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:19:04.787+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:19:04.788+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:19:04.788+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:19:04.788+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:34:50.706+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:34:50.761+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:34:50.762+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:34:50.763+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:34:50.763+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:34:50.763+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:44:24.532+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:44:24.586+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:44:24.587+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:44:24.588+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:44:24.588+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:44:24.588+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:44:24.589+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:44:24.589+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:44:24.589+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:44:24.589+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:45:16.032+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:45:16.088+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:45:16.089+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:45:16.090+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:45:16.090+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:45:16.091+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:45:16.091+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:45:16.091+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:45:16.091+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:45:16.091+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:51:18.634+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:51:18.708+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:51:18.709+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:51:18.709+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:51:18.710+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:51:18.710+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:51:18.710+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:51:18.710+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:51:18.710+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:52:40.061+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:52:40.111+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:53:15.373+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:53:15.373+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:53:15.373+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:53:19.149+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:53:20.479+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:53:20.479+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:53:20.479+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:54:49.751+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:54:49.805+0300","caller":"lru_cache/lru_cache.go:110","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:54:49.805+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:54:49.805+0300","caller":"lru_cache/lru_cache.go:69","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:66","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:75","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:125","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:144","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:90","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:54:49.806+0300","caller":"lru_cache/lru_cache.go:130","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:54:49.808+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:54:49.808+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:54:49.808+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:54:49.809+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:54:49.809+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:54:49.809+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:54:49.809+0300","caller":"lru_cache/lru_cache.go:42","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:57:39.436+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:112","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:71","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:77","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:57:39.487+0300","caller":"lru_cache/lru_cache.go:127","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:57:39.488+0300","caller":"lru_cache/lru_cache.go:146","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:57:39.488+0300","caller":"lru_cache/lru_cache.go:92","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:57:39.488+0300","caller":"lru_cache/lru_cache.go:132","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: "}
+{"level":"ERROR","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:44","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: "}
+{"level":"ERROR","time":"2019-11-29T19:57:39.489+0300","caller":"lru_cache/lru_cache.go:44","message":"Stat : The system cannot find the path specified."}
+{"level":"INFO","time":"2019-11-29T19:59:32.753+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:59:32.807+0300","caller":"lru_cache/lru_cache.go:112","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:71","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:77","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:127","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:146","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:92","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T19:59:32.808+0300","caller":"lru_cache/lru_cache.go:132","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T19:59:32.809+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.809+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.809+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\1.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.810+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.810+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.810+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T19:59:32.810+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\3.jpg"}
+{"level":"ERROR","time":"2019-11-29T19:59:32.810+0300","caller":"lru_cache/lru_cache.go:44","message":"CreateFile ..\\..\\files\\3.jpg: The system cannot find the file specified."}
+{"level":"INFO","time":"2019-11-29T20:00:26.139+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T20:00:26.188+0300","caller":"lru_cache/lru_cache.go:112","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:71","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:77","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:127","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:146","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:92","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T20:00:26.189+0300","caller":"lru_cache/lru_cache.go:132","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T20:00:26.190+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.190+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.190+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.191+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.191+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.191+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T20:00:26.191+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\3.jpg"}
+{"level":"ERROR","time":"2019-11-29T20:00:26.191+0300","caller":"lru_cache/lru_cache.go:44","message":"CreateFile ..\\..\\files\\3.jpg: The system cannot find the file specified."}
+{"level":"INFO","time":"2019-11-29T20:10:52.260+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:112","message":"Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 27000 Cache size: 0/26000"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:71","message":"Image size: 27000 more > than max Cache size: 26000"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:68","message":"Image size: 25000 Cache size: 25000/26000"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:77","message":"ImageSize: 25000 > CacheAvailiableSize: 1000 "}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:127","message":"Try remove Image from Cache: Name:  URL: "}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:146","message":"Successfully remove Image from Cache"}
+{"level":"INFO","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:92","message":"Cache size: 25000/26000"}
+{"level":"ERROR","time":"2019-11-29T20:10:52.323+0300","caller":"lru_cache/lru_cache.go:132","message":"I can't remove file  in path "}
+{"level":"INFO","time":"2019-11-29T20:10:52.325+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.325+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.325+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.326+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/2.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.326+0300","caller":"lru_cache/lru_cache.go:33","message":"Search in cache, Link: http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.326+0300","caller":"lru_cache/lru_cache.go:37","message":"Image in cache, Link http://lc/3.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.326+0300","caller":"lru_cache/lru_cache.go:41","message":"Search file in path: ..\\..\\files\\3.jpg"}
+{"level":"ERROR","time":"2019-11-29T20:10:52.326+0300","caller":"lru_cache/lru_cache.go:44","message":"CreateFile ..\\..\\files\\3.jpg: The system cannot find the file specified."}
+{"level":"INFO","time":"2019-11-29T20:10:52.327+0300","caller":"lru_cache/lru_cache.go:127","message":"Try remove Image from Cache: Name: 1.jpg URL: http://lc/1.jpg"}
+{"level":"INFO","time":"2019-11-29T20:10:52.327+0300","caller":"lru_cache/lru_cache.go:146","message":"Successfully remove Image from Cache"}

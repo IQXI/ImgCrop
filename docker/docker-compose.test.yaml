@@ -1,0 +1,22 @@
+version: "3"
+services:
+  tests:
+    image: iqxi/imgcrop_tests
+    container_name: "imgcrop_tests"
+    depends_on:
+      - nginx
+      - imgcrop
+  nginx:
+    image: iqxi/imgcrop_nginx
+    container_name: "imgcrop_nginx"
+    ports:
+      - "80:80"
+  imgcrop:
+    image: iqxi/imgcrop_service
+    container_name: "imgcrop_service"
+    ports:
+      - "8008:8008"
+    environment:
+      CACHE_SIZE: 100 # in MB
+volumes:
+  imgcrop_volume:

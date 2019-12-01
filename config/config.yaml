@@ -1,0 +1,8 @@
+logger:
+  name: ImgCrop
+  level: INFO
+  logs_path: logs/
+  filename: ImgCrop.log
+cache:
+  path: files/
+  size: 100
